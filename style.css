@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+main {
+    margin: auto;
+    margin-top: 20vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+}
+article {
+    display: flex;
+}
+.blok {
+    border: solid 1px black;
+    border-collapse: collapse;
+    height: 150px;
+    width: 150px
+}
