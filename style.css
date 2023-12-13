@@ -17,5 +17,23 @@ article {
     border: solid 1px black;
     border-collapse: collapse;
     height: 150px;
-    width: 150px
+    width: 150px;
+    cursor: pointer;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+}
+.left {
+    border-left: none;
+}
+.right {
+    border-right: none;
+}
+.up {
+    border-top: none;
+}
+.down {
+    border-bottom: none;
 }
