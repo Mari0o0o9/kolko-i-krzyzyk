@@ -37,3 +37,6 @@ article {
 .down {
     border-bottom: none;
 }
+.check {
+    cursor: not-allowed;
+}
